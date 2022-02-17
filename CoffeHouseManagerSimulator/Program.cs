@@ -21,13 +21,13 @@ namespace CoffeHouseManagerSimulator
                 FirstName = "Mehmet Yasin",
                 LastName = "Çirak",
                 DateofBirth = new DateTime(1996, 08, 11),
-                NationalityId = "25618451372"
+                NationalityId = "894564892"
             });
             manager.Save(new Entities.Customer
             {
                 CustomerId = 2,
-                FirstName = "Cansu",
-                LastName = "Çirak",
+                FirstName = "asdasd",
+                LastName = "asdasdasd",
                 DateofBirth = new DateTime(1999, 06, 13),
                 NationalityId = "00000"
             });
